@@ -12,6 +12,7 @@ This script performs the following operations on a list:
 - Removes the last element.
 - Sorts the list in ascending order.
 - Finds and prints the index of 30.
+- Prints final list
 
 ## File structure 
 project_folder/
